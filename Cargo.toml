@@ -2,12 +2,13 @@
 
 name = "mount"
 authors = ["Jonathan Reem <jonathan.reem@gmail.com>"]
-version = "0.1.0"
+version = "0.2.1"
 description = "Mounting middleware for Iron."
 repository = "https://github.com/iron/mount"
 documentation = "http://ironframework.io/doc/mount/index.html"
 license = "MIT"
+keywords = ["iron", "web", "handler", "routing"]
 
 [dependencies]
-iron = "0.3"
+iron = "0.4"
 sequence_trie = "0.0"
